@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Travel App UI',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primaryColor: Color(0xFFEBACE),
+        primaryColor: Color(0xFF3EBACE),
         accentColor: Color(0xFFD8ECF1),
         scaffoldBackgroundColor: Color(0xFFF3F5F7),
       ),
